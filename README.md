@@ -1,19 +1,19 @@
 # Address_book
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this program in C++ to demonstrate the use of functions, classes, data structures, and other things in the C++ language
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+and how they help solve a problem one might have. 
 
-{Describe your purpose for writing this software.}
+I wrote the address book as a simple solution to writing things down on a piece of paper, this program will help you save paper and time. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+## Here is the demonstration video of my program:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/k7ud2wcC2zs)
 
 # Development Environment
 
-I used the VScode IDE to write my program. 
+I used the Visual Studio IDE to write, compile, and run my program. 
 I wrote the program in the C++ programming language and did not need to use any special libraries to do so. 
 # Useful Websites
 
@@ -21,9 +21,7 @@ I wrote the program in the C++ programming language and did not need to use any 
 - [W3 Schools](https://www.w3schools.com/cpp/default.asp)
 
 # Future Work
+Here are some things that could be done in the future with this application:
+- Add the ability to add a description to each contact
+- Create a real app with a GUI for it instead of it being in the console
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
